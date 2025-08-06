@@ -55,7 +55,7 @@ Built with a team, following Agile practices.
 ## 🚀 My Journey
 
 - 🎓 Bachelor's in Software Engineering – Üsküdar University (GPA: 3.5)
-- 🏢 Backend Intern @ Trustangle – Enhanced frontend skills and worked on dynamic interfaces
+- 🏢 Frontend Intern @ Trustangle – Enhanced frontend skills and worked on dynamic interfaces
 - ⚙️ Backend Developer @ TAP Program – Built real-world apps, refined skills in APIs, architecture & testing
 - 📫 Reaching out to companies in the **MENA region** to expand my impact and grow with ambitious teams
 
