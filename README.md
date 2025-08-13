@@ -38,8 +38,8 @@ I'm a Full Stack Web Developer who thrives on building fast, scalable, and user-
 
 ## 🛠️ Notable Projects
 
-### 🛒 Freelance E-Commerce Platform
-Worked as a backend developer to deliver a custom e-commerce experience.  
+### 🛒 [SD-09/24] Final TAP.
+<strong>Freelance E-Commerce Platform</strong>, Worked as a backend developer to deliver a custom e-commerce experience.  
 Built **handpicked collections**, implemented **auth flows**, and improved performance using **Sequelize hooks**.
 
 ### 🖼️ Exhibition Website with Donations
