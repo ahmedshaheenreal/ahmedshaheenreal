@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer who thrives on building fast, scalable, and user-
 - **Languages:** JavaScript, TypeScript, Java, C
 - **Backend:** Node.js, Express, Sequelize, REST APIs, MVC
 - **Frontend:** React, Next.js, Tailwind CSS
-- **Database:** MySQL, PostgreSQL (basic), MongoDB (familiar)
+- **Database:** MySQL, PostgreSQL , MongoDB (familiar)
 - **Tools:** Git, GitHub Actions, Jest, Docker (basics), Postman, VS Code
 - **Practices:** Clean Code, Agile, CI/CD, TDD, Problem Solving
 
@@ -47,7 +47,7 @@ Developed a donation-powered online art gallery that allows users to browse, app
 Integrated **secure payment logic**, and focused on clean UX and efficient content delivery.
 
 ### 💬 AskMe - Q&A Web App
-Graduation project using Next.js — a Stack Overflow-like app with tag-based filtering and responsive UI.  
+**University Graduation** project using Next.js — a Stack Overflow-like app with tag-based filtering and responsive UI.  
 Built with a team, following Agile practices.
 
 ---
